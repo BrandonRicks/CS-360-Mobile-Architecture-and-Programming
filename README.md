@@ -34,7 +34,7 @@ The primary function of the app as an event tracker allows a user to add, edit, 
 <img src="https://user-images.githubusercontent.com/79807877/154997398-c440a07c-77c3-44ce-9326-1a4720c4d783.jpg" width=200> <img src="https://user-images.githubusercontent.com/79807877/154997498-8cd8cb08-7953-4813-b6c7-20f6a14a7a7b.jpg" width=200> <img src="https://user-images.githubusercontent.com/79807877/154997553-24ed3bc0-e6eb-44ca-ab30-0ea5127528da.jpg" width=200>
 
 ### How did you approach the process of coding your app? What techniques or strategies did you use? How could those be applied in the future?
-I used coding best practices, simplified code structure to keep it legible and clean, and commenting to explain portions of code. For example, I commented on the strings.xml, separating them by their respective purpose or screen, as shown below:
+I used coding best practices, simplified code structure to keep it legible and clean, used logical naming conventions, and commenting to explain portions of code. For example, I commented on the strings.xml, separating them by their respective purpose or screen, as shown below:
 
 <img src="https://user-images.githubusercontent.com/79807877/154995501-9bfcce48-ebc6-4f43-a335-a92844e36df8.png" width=650>
 
