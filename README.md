@@ -52,6 +52,5 @@ In designing the UI of the app, I had to make various changes to the design, in 
 The login functionality, as well as its ability to make use of stored user data within the SQLite database, was a success in my eyes. It allows for multiple users, properly stored user data that can be logged back into, cannot be duplicated, and allows for a user to retrieve a password with more than one requesting form of information. This creates a semblance of security, but also a more feature rich part of the app.
 
 ## Contact
-Brandon Ricks
-
+Brandon Ricks \
 brandon.ricks@snhu.edu
